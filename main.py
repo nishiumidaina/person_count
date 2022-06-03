@@ -94,7 +94,6 @@ def close():
         root.destroy()
 
 flg = True
-
 #開始ボタン
 btn1 = tk.Button(root, text="開始",command=start,width = 6)
 btn1.grid(row=0,column=0)
