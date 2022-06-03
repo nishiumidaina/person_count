@@ -184,7 +184,6 @@ def run(
                     global ave_lis
                     ave_lis.append(int(a))
             
-
             #現在時刻の記録
             now_time = str(time.time())
             time_lis[1] = now_time
